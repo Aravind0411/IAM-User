@@ -67,5 +67,4 @@ This file contains policy creation using json format and attaching the policy to
 
 Output:
 ![group policy](https://github.com/user-attachments/assets/09159ba2-541f-4496-b1a9-5191d1b8babf)
-## 1.main.tf
-This file contains the aws configuration and credential settings.
+
